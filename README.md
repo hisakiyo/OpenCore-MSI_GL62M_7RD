@@ -1,2 +1,2 @@
 # MSI-GL62M-7RD_Catalina-
-MSI-GL62M-7RD macOS Catalina Clover
+Configuration folder that could be useful for the MSI GL62M 7RD
